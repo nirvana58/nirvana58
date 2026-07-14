@@ -17,9 +17,9 @@ nirvana58@github
      .8888'             `888888.        Hobbies.Software: ........... AI/ML, Threat Detection, SIEM
     .8888:..  .::.  ...:'8888888:.      Hobbies.Security: ........... SOC Analysis, OSINT, Network Monitoring
    .8888.'     :'     `'::`88:88888     
-  .8888        '                 `88888 Contact
+  .8888        '                 `88888  Contact
  .8888         '                    `888 Email: ..................... laksmeesha.s.999@gmail.com
-.8888                                88.  LinkedIn: .................. linkedin.com/in/lakshmeesha-suvarna
+.8888                                88. LinkedIn: .................. linkedin.com/in/lakshmeesha-suvarna
 </pre>
 
 ## 🛡️ About Me
