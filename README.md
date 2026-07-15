@@ -1,8 +1,28 @@
 <h1 align="center">Hi, I'm Lakshmeesha Suvarna 👋</h1>
 
-<p align="center">
-  <img src="./fastfetch_profile.png" alt="fastfetch style profile" width="900"/>
-</p>
+```
+nirvana58@github
+-----------------
+            .88888888:.                nirvana58@github
+           88888888.88888.             -----------------
+         .8888888888888888.            OS: ......................... Windows 10, Linux (Ubuntu VM)
+         888888888888888888             Host: ....................... Nitte Institute of Prof. Education
+         88' _`88'_  `88888             Kernel: ..................... BCA - Cybersecurity Specialization
+         88 88 88 88  88888             Uptime: .................... 3 years, 9 months (since Aug 2022)
+         88_88_::_88_:88888             Shell: ...................... bash / PowerShell
+         88:::,::,:::::8888             Terminal: ................... VS Code, Wazuh Dashboard
+         88`:::::::::'`8888
+        .88  `::::'    8:88.           Languages.Programming: ...... Python, C, C++, HTML, CSS, JS
+       8888            `8:888.         Languages.Real: ............. English, Kannada, Hindi, Tulu
+     .8888'             `888888.
+    .8888:..  .::.  ...:'8888888:.     Tools.Security: ............. Wazuh (SIEM), Wireshark, OSINT
+   .8888.'     :'     `'::`88:88888    Hobbies: .................... AI/ML, Threat Detection, SOC
+  .8888        '                 `88888
+ .8888         '                    `888 Contact
+.8888                                88.  Email: ..................... laksmeesha.s.999@gmail.com
+                                           LinkedIn: .................. linkedin.com/in/lakshmeesha-suvarna
+                                           Portfolio: ................. lakshmeeshasuvarna.vercel.app
+```
 
 ## 🛡️ About Me
 
