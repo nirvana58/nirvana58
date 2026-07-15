@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lakshmeesha Suvarna 👋</h1>
 
 <p align="center">
-  <img src="./assets/fastfetch_profile.png" alt="fastfetch style profile" width="900"/>
+  <img src="./fastfetch_profile.png" alt="fastfetch style profile" width="900"/>
 </p>
 
 ## 🛡️ About Me
