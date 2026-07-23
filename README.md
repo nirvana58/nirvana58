@@ -7,17 +7,17 @@ nirvana58@github
            88888888.88888.             -----------------
          .8888888888888888.            OS: ......................... Windows 10, Linux (Ubuntu VM)
          888888888888888888             Host: ....................... Lakshmeesha Suvarna
-         88' _`88'_  `88888             Kernel: ..................... BCA - Cybersecurity Specialization
+         88' _`88'_  `88888             Kernel: ..................... Cybersecurity 
          88 88 88 88  88888             Uptime: ..................... 3 years, 11 months (since Aug 2022)
          88_88_::_88_:88888             Shell: ...................... bash / PowerShell
          88:::,::,:::::8888             Terminal: ................... VS Code, Wazuh Dashboard
          88`:::::::::'`8888
-        .88  `::::'    8:88.           Languages.Programming: ...... Python, C, C++, JavaScript
+        .88  `::::'    8:88.           Languages.Programming: ...... Python, C
        8888            `8:888.         Languages.Real: ............. English, Kannada, Hindi, Tulu
      .8888'             `888888.
     .8888:..  .::.  ...:'8888888:.     Tools.Security: ............. Wazuh (SIEM), Wireshark, OSINT
    .8888.'     :'     `'::`88:88888    Tools.ML: ................... scikit-learn, MiniSom, Ollama
-  .8888        '                 `88888 Hobbies: ................... Cybersecurity and Technology
+  .8888        '                 `88888 Hobbies: ................... Cybersecurity and Technology, Video Production and Editing
  .8888         '                    `888
 .8888                                88. Contact
                                            Email: ..................... laksmeesha.s.999@gmail.com
