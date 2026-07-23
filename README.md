@@ -32,9 +32,8 @@ Aspiring **Cybersecurity Analyst** with hands-on experience building security to
 - 🔭 Currently building **PhishGuard** — a CLI-based URL threat scanner using K-means + SOM anomaly detection, VirusTotal, Google Safe Browsing, URLhaus & WHOIS intelligence. Features an async FastAPI backend, multi-format reports (PDF/DOCX/MD), interactive terminal menu, and offline ML training. No labelled dataset required.
 - ✅ Built the **AI Network Threat Detector** — a stacked ensemble ML pipeline (XGBoost, Random Forest, Decision Tree, Extra Trees) with JWT-based auth flow and local LLM (Ollama) for threat analysis. Now working on add-on features.
 - 🧪 Set up a **Wazuh SIEM Lab** — Agent/Manager across Windows + Ubuntu VMs; still leveling up detection engineering skills on it
-- 📝 Writing a research paper on *Encrypting IoT devices using lightweight cryptographic algorithms*
 - 🎓 BCA (Cybersecurity Specialization), Nitte Institute of Professional Education, Mangalore
-- 🌱 Currently leveling up: SIEM/SOAR workflows, ML for security, OSINT techniques, threat intelligence APIs
+- 🌱 Currently leveling up: SIEM/SOAR workflows,ML for security, OSINT techniques, threat intelligence APIs , Phishing website analysis
 
 ## 🚀 Projects
 
