@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Lakshmeesha Suvarna 👋</h1>
+<h1 align="center">Hi, I'm Lakshmeesha Suvarna </h1>
 
 ```
 nirvana58@github
@@ -25,19 +25,19 @@ nirvana58@github
                                            Portfolio: ................. lakshmeeshasuvarna.vercel.app
 ```
 
-## 🛡️ About Me
+##  About Me
 
 Aspiring **Cybersecurity Analyst** with hands-on experience building security tools, ML-powered threat detection systems, and SIEM lab environments. Proficient in **Python**, with a strong grasp of **Linux**, **networking**, **machine learning for security**, and **OSINT**. Passionate about turning cybersecurity research into working tools.
 
-- 🔭 Currently building **PhishGuard** — a CLI-based URL threat scanner using K-means + SOM anomaly detection, VirusTotal, Google Safe Browsing, URLhaus & WHOIS intelligence. Features an async FastAPI backend, multi-format reports (PDF/DOCX/MD), interactive terminal menu, and offline ML training. No labelled dataset required.
-- ✅ Built the **AI Network Threat Detector** — a stacked ensemble ML pipeline (XGBoost, Random Forest, Decision Tree, Extra Trees) with JWT-based auth flow and local LLM (Ollama) for threat analysis. Now working on add-on features.
-- 🧪 Set up a **Wazuh SIEM Lab** — Agent/Manager across Windows + Ubuntu VMs; still leveling up detection engineering skills on it
-- 🎓 BCA (Cybersecurity Specialization), Nitte Institute of Professional Education, Mangalore
-- 🌱 Currently leveling up: SIEM/SOAR workflows,ML for security, OSINT techniques, threat intelligence APIs , Phishing website analysis
+-  Currently building **PhishGuard** — a CLI-based URL threat scanner using K-means + SOM anomaly detection, VirusTotal, Google Safe Browsing, URLhaus & WHOIS intelligence. Features an async FastAPI backend, multi-format reports (PDF/DOCX/MD), interactive terminal menu, and offline ML training. No labelled dataset required.
+-  Built the **AI Network Threat Detector** — a stacked ensemble ML pipeline (XGBoost, Random Forest, Decision Tree, Extra Trees) with JWT-based auth flow and local LLM (Ollama) for threat analysis. Now working on add-on features.
+-  Set up a **Wazuh SIEM Lab** — Agent/Manager across Windows + Ubuntu VMs; still leveling up detection engineering skills on it
+-  BCA (Cybersecurity Specialization), Nitte Institute of Professional Education, Mangalore
+-  Currently leveling up: SIEM/SOAR workflows,ML for security, OSINT techniques, threat intelligence APIs , Phishing website analysis
 
-## 🚀 Projects
+##  Projects
 
-### 🔍 PhishGuard — URL Threat Scanner *(In Progress)*
+###  PhishGuard — URL Threat Scanner *(In Progress)*
 > CLI-based malicious URL detection system with ML anomaly detection and real-time threat intelligence.
 
 - **ML:** K-means clustering + Self-Organizing Map (SOM) for unsupervised anomaly detection
@@ -45,19 +45,19 @@ Aspiring **Cybersecurity Analyst** with hands-on experience building security to
 - **Stack:** FastAPI · SQLite (WAL) · httpx · scikit-learn · MiniSom · reportlab · python-docx
 - **Features:** Async scan pipeline · Batch scanning from CSV/TXT · Interactive terminal menu · Multi-format reports · Hot model reload · LLM report enhancement via Ollama
 
-### 🤖 AI Network Threat Detector *(Core Complete — Adding Features)*
+###  AI Network Threat Detector *(Core Complete — Adding Features)*
 > Stacked ensemble ML pipeline for network intrusion detection with LLM-powered threat analysis.
 
 - **ML:** XGBoost · Random Forest · Decision Tree · Extra Trees
 - **Features:** JWT-based auth flow · Local LLM (Ollama) for threat analysis · REST API
 
-### 🧪 Wazuh SIEM Lab *(Setup Complete — Still Learning)*
+###  Wazuh SIEM Lab *(Setup Complete — Still Learning)*
 > Hands-on detection engineering environment for threat hunting and log analysis.
 
 - Agent/Manager deployment across Windows 10 + Ubuntu VMs
 - Custom detection rules · Alert correlation · Log ingestion pipelines
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -71,7 +71,7 @@ Aspiring **Cybersecurity Analyst** with hands-on experience building security to
 ![Wazuh](https://img.shields.io/badge/-Wazuh-1E90FF?style=flat-square&logo=wazuh&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=nirvana58&show_icons=true&theme=tokyonight&count_private=true" />
@@ -86,7 +86,7 @@ Aspiring **Cybersecurity Analyst** with hands-on experience building security to
   <img src="https://komarev.com/ghpvc/?username=nirvana58&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
-## 📫 Connect with Me
+##  Connect with Me
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:laksmeesha.s.999@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmeesha-suvarna)
