@@ -16,7 +16,7 @@ nirvana58@github
        8888            `8:888.         Languages.Real: ............. English, Kannada, Hindi, Tulu
      .8888'             `888888.
     .8888:..  .::.  ...:'8888888:.     Tools.Security: ............. Wazuh (SIEM), Wireshark, OSINT
-   .8888.'     :'     `'::`88:88888    Tools.ML: ................... scikit-learn, MiniSom, Ollama
+   .8888.'     :'     `'::`88:88888   
   .8888        '                 `88888 Hobbies: ................... Cybersecurity and Technology, Video Production and Editing
  .8888         '                    `888
 .8888                                88. Contact
