@@ -43,7 +43,11 @@ Aspiring **Cybersecurity Analyst** with hands-on experience building security to
 - **ML:** K-means clustering + Self-Organizing Map (SOM) for unsupervised anomaly detection
 - **Threat Intel:** VirusTotal · Google Safe Browsing · URLhaus (abuse.ch) · WHOIS/RDAP
 - **Stack:** FastAPI · SQLite (WAL) · httpx · scikit-learn · MiniSom · reportlab · python-docx
-- **Features:** Async scan pipeline · Batch scanning from CSV/TXT · Interactive terminal menu · Multi-format reports · Hot model reload · Analysis of Predictions using Local instance(ollama) and Online instance(Gemini).
+- **AI Analysis:** Ollama (local LLM instance) for offline content & prediction analysis, with Gemini (online instance) for final-stage analysis and cross-verification
+- **Content Analysis:** Ollama-powered inspection of page content for phishing language, urgency cues, and credential-harvesting patterns
+- **Redirect Chain Tracing:** Follows and logs full multi-hop redirect paths to detect cloaking and shortener abuse
+- **SSL/TLS Certificate Inspection:** Validates certificate issuer, validity window, self-signed status, and free-CA usage as part of the trust signal pipeline
+- **Features:** Async scan pipeline · Batch scanning from CSV/TXT · Interactive terminal menu · Multi-format reports · Hot model reload
 
 ###  AI Network Threat Detector *(Core Complete — Adding Features)*
 > Stacked ensemble ML pipeline for network intrusion detection with LLM-powered threat analysis.
