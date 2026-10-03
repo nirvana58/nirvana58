@@ -25,70 +25,75 @@ nirvana58@github
                                            Portfolio: ................. lakshmeeshasuvarna.vercel.app
 ```
 
-##  About Me
-
-Aspiring **Cybersecurity Analyst** with hands-on experience building security tools, ML-powered threat detection systems, and SIEM lab environments. Proficient in **Python**, with a strong grasp of **Linux**, **networking**, **machine learning for security**, and **OSINT**. Passionate about turning cybersecurity research into working tools.
-
--  Currently building **PhishGuard** — a CLI-based URL threat scanner using K-means + SOM anomaly detection, VirusTotal, Google Safe Browsing, URLhaus & WHOIS intelligence. Features an async FastAPI backend, multi-format reports (PDF/DOCX/MD), interactive terminal menu, and offline ML training. No labelled dataset required.
--  Built the **AI Network Threat Detector** — a stacked ensemble ML pipeline (XGBoost, Random Forest, Decision Tree, Extra Trees) with JWT-based auth flow and local LLM (Ollama) for threat analysis. Now working on add-on features.
--  Set up a **Wazuh SIEM Lab** — Agent/Manager across Windows + Ubuntu VMs; still leveling up detection engineering skills on it
--  BCA (Cybersecurity Specialization), Nitte Institute of Professional Education, Mangalore
--  Currently leveling up: SIEM/SOAR workflows,ML for security, OSINT techniques, threat intelligence APIs , Phishing website analysis
-
-##  Projects
-
-###  PhishGuard — URL Threat Scanner *(In Progress)*
-> CLI-based malicious URL detection system with ML anomaly detection and real-time threat intelligence.
-
-- **ML:** K-means clustering + Self-Organizing Map (SOM) for unsupervised anomaly detection
-- **Threat Intel:** VirusTotal · Google Safe Browsing · URLhaus (abuse.ch) · WHOIS/RDAP
-- **Stack:** FastAPI · SQLite (WAL) · httpx · scikit-learn · MiniSom · reportlab · python-docx
-- **AI Analysis:** Ollama (local LLM instance) for offline content & prediction analysis, with Gemini (online instance) for final-stage analysis and cross-verification
-- **Content Analysis:** Ollama-powered inspection of page content for phishing language, urgency cues, and credential-harvesting patterns
-- **Redirect Chain Tracing:** Follows and logs full multi-hop redirect paths to detect cloaking and shortener abuse
-- **SSL/TLS Certificate Inspection:** Validates certificate issuer, validity window, self-signed status, and free-CA usage as part of the trust signal pipeline
-- **Features:** Async scan pipeline · Batch scanning from CSV/TXT · Interactive terminal menu · Multi-format reports · Hot model reload
-
-###  AI Network Threat Detector *(Core Complete — Adding Features)*
-> Stacked ensemble ML pipeline for network intrusion detection with LLM-powered threat analysis.
-
-- **ML:** XGBoost · Random Forest · Decision Tree · Extra Trees
-- **Features:** JWT-based auth flow · Local LLM (Ollama) for threat analysis · REST API
-
-###  Wazuh SIEM Lab *(Setup Complete — Still Learning)*
-> Hands-on detection engineering environment for threat hunting and log analysis.
-
-- Agent/Manager deployment across Windows 10 + Ubuntu VMs
-- Custom detection rules · Alert correlation · Log ingestion pipelines
-
-##  Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Wazuh](https://img.shields.io/badge/-Wazuh-1E90FF?style=flat-square&logo=wazuh&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-
-##  GitHub Stats
+<h1 align="center">Hey, I'm Lakshmeesha </h1>
+<h3 align="center">Aspiring Cybersecurity Analyst | Python & FastAPI Developer</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nirvana58&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirvana58&layout=compact&theme=tokyonight" />
+  I like breaking things open to see how they fail — mostly phishing emails, suspicious URLs, and the occasional unsuspecting network. 
+</p>
+
+---
+
+###  About Me
+
+-  BCA (Specialized in Cybersecurity) — Nitte Institute of Professional Education, Mangalore
+-  Currently building ML-powered security tools (threat detection, phishing analysis, URL scanning)
+-  Into anything that mixes Python + FastAPI + "can I automate this instead of doing it by hand"
+-  Always poking around SIEM, OSINT, and threat-intel APIs for fun
+-  Ask me about network threat detection, phishing analysis, or why your email almost got you phished
+-  Reach me at **laksmeesha.s.999@gmail.com**
+
+---
+
+### 🛠️ Tech & Tools
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
+![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Wireshark](https://img.shields.io/badge/-Wireshark-black?style=flat-square&logo=wireshark)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+**Security stack:** SIEM/Wazuh · OSINT · VirusTotal · Google Safe Browsing · WHOIS/RDAP · SPF/DKIM/DMARC
+
+---
+
+###  Featured Projects
+
+####  [AI Network Threat Detector](https://github.com/nirvana58/REPLACE_WITH_REPO_NAME)
+Real-time network traffic analysis and threat classification using an ensemble of XGBoost, Random Forest, Decision Tree, and Extra Trees — with SMOTE-based balancing and confidence scoring. Hit **95% classification accuracy**. Also wired up a locally-hosted LLM (via Ollama) for automated threat insights, because why not have the model explain itself.
+
+####  [PhishGuard — URL Threat Scanner](https://github.com/nirvana58/REPLACE_WITH_REPO_NAME)
+Async FastAPI platform that scans URLs using K-means + Self-Organizing Map anomaly detection, cross-checked against VirusTotal, Google Safe Browsing, URLhaus, and WHOIS/RDAP — **95% accuracy**. Fires off Slack/Discord alerts and spits out auto-generated PDF/DOCX/Markdown reports so nobody has to write an incident summary by hand.
+
+####  [Email Triage — Phishing Email Metadata Analyzer](https://github.com/nirvana58/REPLACE_WITH_REPO_NAME)
+Feed it a `.eml` or `.msg` file and it rips apart headers, routing info, URLs, and attachments — running SPF/DKIM/DMARC and threat-intel checks concurrently. Comes with a React dashboard so the results don't just live in a terminal.
+
+---
+
+###  GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nirvana58&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirvana58&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirvana58&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirvana58&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nirvana58&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirvana58&theme=tokyo-night&hide_border=true" />
 </p>
 
-##  Connect with Me
+---
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:laksmeesha.s.999@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmeesha-suvarna)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://lakshmeeshasuvarna.vercel.app)
+###  Find Me Elsewhere
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lakshmeesha-suvarna)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel)](https://lakshmeeshasuvarna.vercel.app)
+[![Gmail](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:laksmeesha.s.999@gmail.com)
+
+<p align="center"><i>If it's connected to a network, I probably want to know how to break it (ethically, I promise). 🛡️</i></p>
