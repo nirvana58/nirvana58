@@ -45,7 +45,7 @@ nirvana58@github
 
 ---
 
-### 🛠️ Tech & Tools
+###  Tech & Tools
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
