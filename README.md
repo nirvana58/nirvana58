@@ -70,6 +70,7 @@ Async FastAPI platform that scans URLs using K-means + Self-Organizing Map anoma
 
 ####  [Email Triage — Phishing Email Metadata Analyzer](https://github.com/nirvana58/Email-Triage)
 Feed it a `.eml` or `.msg` file and it rips apart headers, routing info, URLs, and attachments — running SPF/DKIM/DMARC and threat-intel checks concurrently. Comes with a React dashboard so the results don't just live in a terminal.
+*Mail Triage covers the foundational metadata/reputation layer of email security; it does not yet address the behavioral and content-analysis layer where the field's detection gains are currently concentrated*
 
 ---
 
