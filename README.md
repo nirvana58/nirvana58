@@ -62,13 +62,13 @@ nirvana58@github
 
 ###  Featured Projects
 
-####  [AI Network Threat Detector](https://github.com/nirvana58/REPLACE_WITH_REPO_NAME)
+####  [AI Network Threat Detector](https://github.com/nirvana58/Nirvana)
 Real-time network traffic analysis and threat classification using an ensemble of XGBoost, Random Forest, Decision Tree, and Extra Trees — with SMOTE-based balancing and confidence scoring. Hit **95% classification accuracy**. Also wired up a locally-hosted LLM (via Ollama) for automated threat insights, because why not have the model explain itself.
 
-####  [PhishGuard — URL Threat Scanner](https://github.com/nirvana58/REPLACE_WITH_REPO_NAME)
+####  [PhishGuard — URL Threat Scanner](https://github.com/nirvana58/phishguard)
 Async FastAPI platform that scans URLs using K-means + Self-Organizing Map anomaly detection, cross-checked against VirusTotal, Google Safe Browsing, URLhaus, and WHOIS/RDAP — **95% accuracy**. Fires off Slack/Discord alerts and spits out auto-generated PDF/DOCX/Markdown reports so nobody has to write an incident summary by hand.
 
-####  [Email Triage — Phishing Email Metadata Analyzer](https://github.com/nirvana58/REPLACE_WITH_REPO_NAME)
+####  [Email Triage — Phishing Email Metadata Analyzer](https://github.com/nirvana58/Email-Triage)
 Feed it a `.eml` or `.msg` file and it rips apart headers, routing info, URLs, and attachments — running SPF/DKIM/DMARC and threat-intel checks concurrently. Comes with a React dashboard so the results don't just live in a terminal.
 
 ---
