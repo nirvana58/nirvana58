@@ -73,6 +73,11 @@ Feed it a `.eml` or `.msg` file and it rips apart headers, routing info, URLs, a
 
 *Mail Triage covers the foundational metadata/reputation layer of email security; it does not yet address the behavioral and content-analysis layer where the field's detection gains are currently concentrated*
 
+####  [Incident Write-up — Credential-Harvesting Phishing Simulation](https://github.com/nirvana58/Incident-writeup)
+Documented an authorized phishing simulation with an incident timeline, redacted indicators of compromise, technical analysis, MITRE ATT&CK mapping, impact assessment, and practical detection and response recommendations. The report also records evidence limitations and lessons learned.
+
+[Read the full incident report](https://github.com/nirvana58/Incident-writeup/blob/main/IR-SIM-2026-0603-01.md) · [Repository README](https://github.com/nirvana58/Incident-writeup/blob/main/README.md)
+
 ---
 
 ###  GitHub Stats
